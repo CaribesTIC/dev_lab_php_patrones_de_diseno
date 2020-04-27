@@ -29,5 +29,3 @@ class SamsBookFactory extends AbstractBookFactory {
 
 
 
-
-

@@ -64,6 +64,3 @@ MySQL Title: MySQL, 3rd Edition
 END TESTING ABSTRACT FACTORY PATTERN
 */
 
-
-
-
