@@ -93,4 +93,3 @@ class SamsPHPBook extends AbstractPHPBook {
     }
 }
 
-
